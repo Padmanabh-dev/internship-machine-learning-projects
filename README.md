@@ -1,36 +1,36 @@
-# Machine Learning Projects Portfolio
+# Machine Learning Case Studies
 
 ## Overview
 
-This repository contains machine learning projects completed as part of academic coursework, research activities, and internship work.
+This repository contains machine learning projects completed during internship training.
 
-### Projects Included
+## Projects
 
-#### 1. Rotor Bearing Fault Detection
+### 1. House Price Prediction
+Predicting house prices using regression techniques.
 
-Machine learning based fault diagnosis of rotor-bearing systems for detection of shaft misalignment and inner race defects using vibration signal analysis.
+Algorithms:
+- Linear Regression
+- Decision Tree Regressor
+- KNN Regressor
 
-#### 2. Internship Project
+### 2. Student Pass/Fail Prediction
+Predicting student performance based on study hours and academic features.
 
-Industrial data analytics and machine learning implementation involving data preprocessing, feature engineering, model training, and performance evaluation.
+Algorithms:
+- Decision Tree
+- Naive Bayes
+- Linear Regression
 
-### Technologies Used
+## Tools Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-* Jupyter Notebook
-* Machine Learning Algorithms
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- RapidMiner
 
-### Applications
-
-* Predictive Maintenance
-* Fault Diagnosis
-* Industrial Analytics
-* Classification and Prediction
-
-### Author
+## Author
 
 Padmanabh Kulkarni
